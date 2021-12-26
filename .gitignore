@@ -1,3 +1,8 @@
+# YouTube related folders
+temp_videos
+thumbnails
+videos
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
