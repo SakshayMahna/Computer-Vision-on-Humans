@@ -3,6 +3,9 @@ temp_videos
 thumbnails
 videos
 
+# High volume files
+*.caffemodel
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
